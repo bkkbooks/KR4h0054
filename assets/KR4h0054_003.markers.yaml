@@ -105,6 +105,7 @@ markers:
   - {type: line-break, offset: 239, content: '', id: KR4h0054_WYG_003-2a02}
   - {type: indent, offset: 239, content: 　　　, id: KR4h0054_krp_003-bkkind13}
   - {type: punctuation, offset: 244, content: (, id: KR4h0054_krp_003-bkkpn1}
+  - {type: voice, offset: 244, length: 17, name: note, id: n1}
   - {type: punctuation, offset: 253, content: /, id: KR4h0054_krp_003-bkkpn2}
   - {type: punctuation, offset: 261, content: ), id: KR4h0054_krp_003-bkkpn3}
   - {type: 'kr:newline', offset: 261, content: '
@@ -692,6 +693,7 @@ markers:
   - {type: substitution, offset: 2017, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: substitution, offset: 2021, original: 牓, replacement: 榜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17670}}
   - {type: punctuation, offset: 2031, content: (, id: KR4h0054_krp_003-bkkpn4}
+  - {type: voice, offset: 2031, length: 10, name: note, id: n2}
   - {type: punctuation, offset: 2033, content: /, id: KR4h0054_krp_003-bkkpn5}
   - {type: punctuation, offset: 2035, content: ), id: KR4h0054_krp_003-bkkpn6}
   - {type: 'kr:newline', offset: 2035, content: '
@@ -1083,6 +1085,7 @@ markers:
   - {type: line-break, offset: 3051, content: '', id: KR4h0054_WYG_003-13a01}
   - {type: indent, offset: 3051, content: 　　　, id: KR4h0054_krp_003-bkkind56}
   - {type: punctuation, offset: 3053, content: (, id: KR4h0054_krp_003-bkkpn10}
+  - {type: voice, offset: 3053, length: 7, name: note, id: n3}
   - {type: punctuation, offset: 3057, content: /, id: KR4h0054_krp_003-bkkpn11}
   - {type: punctuation, offset: 3060, content: ), id: KR4h0054_krp_003-bkkpn12}
   - {type: 'kr:newline', offset: 3060, content: '
@@ -2194,4 +2197,4 @@ markers:
 
       ', id: KR4h0054_krp_003-bkkkrnewl449}
   back: []
-hash: sha256:bc3c4ffee2b1da3dedf5cdc1c3dc1e3110e8bca0494d0c1d3960f1ae72ca13ea
+hash: sha256:198c292228b5c1f28cff3f4e80119038698144c08c6889eb51df95468f257515

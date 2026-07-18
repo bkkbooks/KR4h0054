@@ -1350,6 +1350,7 @@ markers:
   - {type: line-break, offset: 3757, content: '', id: KR4h0054_WYG_020-16b03}
   - {type: indent, offset: 3757, content: 　　　, id: KR4h0054_krp_020-bkkind77}
   - {type: punctuation, offset: 3763, content: (, id: KR4h0054_krp_020-bkkpn1}
+  - {type: voice, offset: 3763, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 3766, content: /, id: KR4h0054_krp_020-bkkpn2}
   - {type: punctuation, offset: 3769, content: ), id: KR4h0054_krp_020-bkkpn3}
   - {type: 'kr:newline', offset: 3769, content: '
@@ -1492,6 +1493,7 @@ markers:
   - {type: line-break, offset: 4273, content: '', id: KR4h0054_WYG_020-18a06}
   - {type: indent, offset: 4273, content: 　　　, id: KR4h0054_krp_020-bkkind79}
   - {type: punctuation, offset: 4280, content: (, id: KR4h0054_krp_020-bkkpn4}
+  - {type: voice, offset: 4280, length: 8, name: note, id: n2}
   - {type: punctuation, offset: 4284, content: /, id: KR4h0054_krp_020-bkkpn5}
   - {type: punctuation, offset: 4288, content: ), id: KR4h0054_krp_020-bkkpn6}
   - {type: 'kr:newline', offset: 4288, content: '
@@ -3554,6 +3556,7 @@ markers:
   - {type: indent, offset: 9342, content: 　　　, id: KR4h0054_krp_020-bkkind198}
   - {type: substitution, offset: 9343, original: 隠, replacement: 隱, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20614}}
   - {type: punctuation, offset: 9346, content: (, id: KR4h0054_krp_020-bkkpn7}
+  - {type: voice, offset: 9346, length: 15, name: note, id: n3}
   - {type: punctuation, offset: 9354, content: /, id: KR4h0054_krp_020-bkkpn8}
   - {type: punctuation, offset: 9361, content: ), id: KR4h0054_krp_020-bkkpn9}
   - {type: 'kr:newline', offset: 9361, content: '
@@ -3697,4 +3700,4 @@ markers:
 
       ', id: KR4h0054_krp_020-bkkkrnewl773}
   back: []
-hash: sha256:45346b83e1c7c2d43a75a8d74e35e4e45fb00ca5f14df460566ae50a12ecaf53
+hash: sha256:9fd81c966714e696bd6be38f3a26697a3bfa7802c02ffac1578af24c52293a08
